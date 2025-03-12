@@ -1,2 +1,3 @@
-# EXBOSYS--THE-FIRE-EXTINGUISHING-SYSTEM
-This a advanced fire extinguishing system 
+# EXBOSYS--THE-FIRE-EXTINGUISHING SYSTEM
+Used Techs: Arduino, NodeMCU, Solar Tracker, IOT, Fire Extinguishing System
+
